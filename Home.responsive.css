@@ -1,0 +1,190 @@
+@media only screen and (max-width:700px) {
+    
+    /* From Uiverse.io by biswacpcode */
+.nav-link {
+    color: navy;
+    text-decoration: none;
+    font-size: 18px;
+    border: none;
+    background: none;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    z-index: 11111;
+}
+.endbtx-one {
+    padding: 5px 15px;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 600;
+    color: white;
+    background: navy;
+    border: none;
+    border-radius: 25px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+   
+}
+
+.nav-link::before {
+    margin-left: auto;
+}
+
+.nav-link::after,
+button::before {
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: navy;
+    display: block;
+    transition: 0.5s;
+}
+
+.nav-link:hover::after,
+.nav-link:hover::before {
+    width: 100%;
+}
+
+.endbtx-one {
+    padding: 1.0em 4em;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 700;
+    color: white;
+    background: navy;
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+    border: 4px solid rgba(0, 0, 128, 0);
+    z-index: 11111;
+}
+
+.endbtx-one:hover {
+    background-color: rgba(255, 255, 255, 0.515);
+    border: 4px solid navy;
+    color: navy;
+}
+
+    
+.iibtx {
+    width: 300px;
+    height: 200px;
+    /* border: 4px solid red; */
+    overflow: hidden;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+
+.iibtx img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+
+
+.Homm-1 p {
+    font-weight: 400;
+    font-size: 15px;
+    color: rgb(43, 43, 201);
+}
+.Homm-1 h1 {
+    font-weight: 600;
+    font-size: 10px;
+    color: rgb(43, 43, 201);
+}
+
+.home-second h1 {
+    font-weight: 400;
+    font-size: 15px;
+    color: rgb(43, 43, 201);
+    line-height: 30px;
+}
+
+
+
+
+.h-nn {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Montserrat';
+    color: rgb(6, 6, 163);
+    /* color: ; */
+
+}
+
+
+.third-ttx h1 {
+    font-size: 23px;
+    font-weight: bold;
+    color: navy;
+    letter-spacing: 2px;
+    text-align: start;
+    text-shadow: 1px rgba(0, 0, 0, 0.549);
+}
+
+.third-ttx p:nth-child(1) {
+    font-size: 15px;
+    font-weight: bold;
+    color: navy;
+    letter-spacing: 2px;
+    text-shadow: 1px rgba(0, 0, 0, 0.549);
+    z-index: 111;
+    text-align: start;
+}
+.third-ttx p {
+    text-align: start;
+}
+.count-one {
+    font-size: 29px;
+    font-weight: bolder;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.549);
+    color: navy;
+}
+
+.count-two {
+    font-size: 29px;
+    font-weight: bolder;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.549);
+    color: navy;
+}
+
+.count-three {
+    font-size: 29px;
+    font-weight: bolder;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.549);
+    color: navy;
+}
+
+.third-pop span p {
+    font-weight: bolder;
+    color: navy;
+    font-size: 13px;
+}
+.count {
+    font-size: 34px;
+    font-weight: bolder;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.549);
+    color: navy;
+}
+
+
+
+.v-air {
+    height: 250px;
+    /* border: 4px solid red; */
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+.gd img{
+    width: 245px !important;
+    height: 245px !important;
+}
+
+
+}

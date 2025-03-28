@@ -1,0 +1,419 @@
+
+
+@media (min-height: 921px) and (max-width: 1025px){
+    .slider{
+        height: 46vh;
+    }
+}
+
+@media  (max-width: 922px){
+    .slider{
+        height: 42vh;
+    } 
+}
+
+@media only screen and (max-width:700px) {
+
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        scrollbar-width: none;
+    }
+
+    .sev-card-one p {
+        font-size: 15px;
+        font-weight: bold;
+        color: navy;
+        letter-spacing: 2px;
+        text-shadow: 1px 1px rgba(0, 0, 0, 0.418);
+
+    }
+
+    .sev-card-one h1 {
+        font-size: 30px;
+        font-weight: bold;
+        color: navy;
+        letter-spacing: 1px;
+        text-shadow: 1px 1px rgba(0, 0, 0, 0.549);
+    }
+
+    .sec-con h1 {
+        font-size: 20px;
+        font-weight: 700;
+        margin-left: 10px;
+        z-index: 11;
+        margin-left: 30px;
+        z-index: 1111111;
+    }
+
+    .sec-con p {
+        font-size: 14px;
+        z-index: 111111;
+        font-weight: 500;
+        color: black;
+    }
+
+    .i-box {
+        width: 45px;
+        height: 45px;
+        /* border: 4px solid rgb(106, 255, 0); */
+        z-index: 111111;
+    }
+
+    .third-ttx h1 {
+        font-size: 23px;
+        font-weight: bold;
+        color: navy;
+        letter-spacing: 2px;
+        text-align: start;
+        text-shadow: 1px rgba(0, 0, 0, 0.549);
+    }
+
+    .third-ttx p:nth-child(1) {
+        font-size: 15px;
+        font-weight: bold;
+        color: navy;
+        letter-spacing: 2px;
+        text-shadow: 1px rgba(0, 0, 0, 0.549);
+        z-index: 111;
+        text-align: start;
+    }
+    .third-ttx p {
+        text-align: start;
+    }
+
+    .count-one {
+        font-size: 10px;
+        font-weight: bolder;
+        text-shadow: 1px 1px rgba(0, 0, 0, 0.549);
+        color: navy;
+    }
+
+    .count-two {
+        font-size: 10px;
+        font-weight: bolder;
+        text-shadow: 1px 1px rgba(0, 0, 0, 0.549);
+        color: navy;
+    }
+
+    .count-three {
+        font-size: 10px;
+        font-weight: bolder;
+        text-shadow: 1px 1px rgba(0, 0, 0, 0.549);
+        color: navy;
+    }
+
+    .third-pop span p {
+        font-weight: bolder;
+        color: navy;
+        font-size: 13px;
+    }
+    .count {
+        font-size: 30px;
+        font-weight: bolder;
+        text-shadow: 1px 1px rgba(0, 0, 0, 0.549);
+        color: navy;
+    }
+
+
+    .fourth-rrw {
+        height: 26vh;
+        overflow: hidden;
+        position: relative;
+    }
+
+    .forth-ttx h1 {
+        color: white;
+        font-weight: bolder;
+        text-shadow: 1px 1px black;
+        font-size: 18px;
+    }
+
+    .forth-ttx p {
+        color: white;
+        font-weight: bold;
+        font-size: 13px;
+        text-shadow: 1px 1px black;
+    }
+
+    .forth-ttx button {
+        padding: 5px 5px;
+        font-weight: bold;
+        color: white;
+        border: 2px solid white;
+        background: none;
+        font-size: 13px;
+        transition: .4s ease-in-out;
+    }
+
+    .five-left-ttx p:nth-child(1) {
+        font-weight: bold;
+        color: navy;
+        text-shadow: 1px rgba(0, 0, 0, 0.4);
+        font-size: 15px;
+    }
+
+    .five-left-ttx h1 {
+        font-weight: bold;
+        text-shadow: 1px 1px rgba(0, 0, 0, 0.392);
+        color: navy;
+    }
+
+    .five-left-ttx p {
+        line-height: 22px;
+        letter-spacing: 1px;
+        font-weight: 600px;
+        color: navy;
+        font-size: 16px;
+        text-shadow: 1px 0px 1px rgba(0, 0, 0, 0.4);
+
+    }
+
+    .bob {
+        font-size: 14px;
+        padding: 5px 5px;
+    }
+
+    .vs {
+        width: 400px;
+        border-radius: 30px;
+        /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+    }
+
+    .six-card-ttx h1 {
+        font-weight: bold;
+        text-shadow: 1px 1px rgba(0, 0, 0, 0.392);
+        color: navy;
+        font-size: 18px;
+    }
+
+    .six-card-ttx p:nth-child(1) {
+        font-weight: bold;
+        color: navy;
+        text-shadow: 1px rgba(0, 0, 0, 0.4);
+        font-size: 15px;
+    }
+
+    .six-card-ttx p {
+        font-size: 15px;
+        line-height: 30px;
+        font-weight: bold;
+        color: navy;
+
+    }
+
+    .sev-card-ttx h1 {
+        font-size: 25px;
+        font-weight: bold;
+        color: navy;
+        letter-spacing: 3px;
+        text-shadow: 1px 1px rgba(0, 0, 0, 0.549);
+    }
+
+    .sev-card-ttx p {
+        font-size: 15px;
+        font-weight: bold;
+        color: navy;
+        letter-spacing: 3px;
+        text-shadow: 1px rgba(0, 0, 0, 0.549);
+        z-index: 111;
+    }
+
+    .eight-ttx h1 {
+        font-size: 30px;
+        font-weight: bold;
+        color: navy;
+        letter-spacing: 2px;
+        text-shadow: 1px 1px rgba(0, 0, 0, 0.549);
+    }
+    
+    .eight-ttx p {
+        font-size: 17px;
+        font-weight: bold;
+        color: navy;
+        letter-spacing: 2px;
+        text-shadow: 1px rgba(0, 0, 0, 0.549);
+        z-index: 111;
+    }
+    .main-box {
+        width: 150px;
+        height: 150px;
+        /* border: 4px solid yellow;  */
+        overflow: hidden;
+        border-radius: 40px;
+        position: relative;
+        background-color: white;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    }
+
+    .jok-box h1 {
+        font-size: 15px;
+        font-weight: bold;
+        color: navy;
+    }
+    
+    .jok-box p:nth-child(1) {
+        font-size: 12px;
+        font-weight: bold;
+        color: navy;
+    }
+    
+    .jok-box p:nth-child(2) {
+        font-size: 12px;
+        font-weight: bold;
+        color: navy;
+    }
+    
+    .jok-box p:nth-child(3) {
+        width: 100%;
+        font-size: 13px;
+        color: navy;
+    }
+    .ssp {
+        padding: 5px 10px;
+        color: white;
+        font-weight: bold;
+        border-radius: 15px;
+        z-index: 111111;
+        font-size: 12px;
+        background-color: rgba(0, 0, 128, 0.705);
+    }
+
+    .ff-end-ttx h1 {
+        font-size: 18px;
+    }
+    .ff-end-ttx a {
+        font-size: 12px;
+    }
+
+    .ff-one-ttx h1 {
+        font-size: 18px;
+    }
+
+
+
+
+
+    .dkk h1 {
+        font-weight: bold;
+        color: rgb(2, 2, 161);
+        font-size: 30px;
+    }
+    
+    .dkk span i {
+        font-size: 11px;
+        color: rgb(2, 2, 161);
+    }
+    .dkk span {
+        font-weight: bold;
+        color: rgb(2, 2, 161);
+    }
+    .dkk span p {
+        font-size: 12px;
+    }
+
+}
+
+
+.comaa {
+    width: 30px;
+}
+
+.dkk h1 {
+    font-size: 25px;
+}
+
+
+.button-box {
+    padding: 5px 20px;
+    border-radius: 15px;
+    font-weight: 600;
+    font-style: 14px;
+    border: none;
+    background: rgb(34, 45, 253);
+    background: linear-gradient(90deg, rgba(34, 45, 253, 0.75) 18%, rgba(34, 45, 253, 0.67) 33%, rgba(55, 93, 226, 0.7814775568430498) 56%, rgba(72, 116, 237, 0.7786764363948704) 70%, rgba(80, 152, 228, 0.7730741954985119) 87%);
+    color: white;
+}
+.b-box-2 {
+    padding: 8px 20px;
+    border: none;
+    color: navy;
+    font-size: 14px;
+    background: none;
+    border: 2px solid navy;
+    border-radius: 15px;
+    font-weight: bold;
+}
+.navTwo{
+    animation-name: scrollnav;
+    animation-timeline: scroll();
+    animation-timing-function: ease-in-out;
+    opacity: 0;
+    top: 0;
+    z-index: 11111111 !important;
+}
+
+/* @keyframes scrollnav {
+    0%,14%{
+        opacity: 0;
+        top: -130px;
+    }
+    20%{
+        top: 0;
+        opacity: 1;
+    }
+} */
+
+@media only screen and (max-width: 500px){
+    .vs{
+        width: 350px;
+    }
+    .slider{
+        height: 28vh;
+    } 
+}
+@media only screen and (max-width: 376px){
+    .slider{
+        height: 33vh;
+    } 
+}
+
+
+.h-gg {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Montserrat';
+    color: rgb(6, 6, 163);
+    /* color: ; */
+
+}
+
+
+.max-sp {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-evenly;
+}
+.dx-rw {
+    height: 90%;
+}
+
+
+/* .Homm-1 p {
+    font-weight: 400;
+    font-size: 15px;
+    color: rgb(43, 43, 201);
+}
+.Homm-1 h1 {
+    font-weight: 600;
+    font-size: 16px;
+    color: rgb(43, 43, 201);
+} */
+
+@media only screen and (max-width: 350px) {
+    .vs{
+        width: 280px;
+    }
+}
